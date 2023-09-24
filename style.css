@@ -1,0 +1,112 @@
+body{
+   padding-top: 20px;
+    background: linear-gradient(180deg, rgba(173, 232, 242, 0.00)0%, rgba(72, 202, 228, 0.81)23.44%, #0077B6 82.9%);
+}   
+.jumbotron{
+    margin-bottom: 20px;
+}
+.jumbotron .paragraf{
+ color: rgb(7, 7, 136);
+font-family: Arial, Helvetica, sans-serif;
+font-style: normal;
+line-height: normal;
+margin-left: 40px;
+}
+.ikan{
+    margin-left: 150px;
+    
+}
+.jumbotron .font{
+    color: #fff;
+    position: relative;
+    transform: translateX(30px);
+    font-family: chiller;
+
+}
+span{
+    color: blueviolet;
+}
+.content{
+    margin-left: 40px;
+    margin-top: 110px;
+}
+.fontt{
+    color: rgb(202, 245, 245);
+}
+
+
+
+.footer{
+    padding: 40px 0;
+    background-color: aliceblue;
+    font-family: lucida sans;
+}
+
+.footer .social {
+    text-align: center;
+    padding-bottom: 25px;
+    color: black;
+
+}
+.footer .social a{
+    font-size: 24px;
+    color: inherit;
+    border: 1px solid #ccc;
+    width: 40px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block ;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 8px;
+    opacity : 0.75;
+
+}
+.footer .social a:hover{
+    opacity: 0.9;
+
+}
+.footer ul{
+margin-top: 0;
+padding: 0;
+list-style: none;
+font-size: 18px;
+line-height: 1.6;
+margin-bottom: 0;
+text-align: center;
+}
+
+.footer ul a{
+    color: inherit;
+    text-decoration: none;
+    opacity:0.8;
+}
+.footer ul li{
+    display:inline-block;
+    padding: 0 15px;
+}
+.footer ul li a:hover{
+    opacity: 1;
+}
+
+
+.footer .copyright{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    color: #aaa;
+}
+
+.footer .inst:hover{
+color: #ff5d8f;
+}
+.footer .twit:hover{
+color: #00b4d8;
+}
+.footer .pace:hover{
+color: #023e8a;
+}
+.footer .dedit:hover{
+color: #f3722c;
+}
+
